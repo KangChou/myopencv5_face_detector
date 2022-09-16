@@ -20,5 +20,4 @@
  软件运行之后，在网页浏览器打开即可进行人脸检测：http://localhost:8080/face
  
  
- 
- ![image](https://user-images.githubusercontent.com/36963108/190706049-f50d9b35-8d83-473a-bba2-e009ce49e0e0.png)
+ ![image](https://user-images.githubusercontent.com/36963108/190706787-b2bc6a8f-b59a-4ee5-8ff4-d17027c531e7.png)
