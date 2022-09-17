@@ -1,6 +1,9 @@
 # 1、face_detector_opencv5
 基于opencv5(C++)流媒体视频流实现网页浏览器人脸检测
 
+源码即将开源，敬请期待。
+
+
 
 下载软件链接: https://pan.baidu.com/s/1OZcUVnpae5v4WJIUYRXyxg 提取码: t7ew
 
@@ -21,3 +24,11 @@
  
  
  ![image](https://user-images.githubusercontent.com/36963108/190706787-b2bc6a8f-b59a-4ee5-8ff4-d17027c531e7.png)
+
+
+# 其他
+
+server.py 这只是一个使用socket转接外部访问的服务，你也可以拿去使用。
+
+
+![image](https://user-images.githubusercontent.com/36963108/190842697-77b09491-3fa9-4f36-9cb0-991c12ef4e60.png)
