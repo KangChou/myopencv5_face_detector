@@ -3,6 +3,7 @@
 
 源码即将开源，敬请期待。
 
+我的CSDN博客：https://blog.csdn.net/weixin_41194129/article/details/126900325
 
 
 下载软件链接: https://pan.baidu.com/s/1OZcUVnpae5v4WJIUYRXyxg 提取码: t7ew
